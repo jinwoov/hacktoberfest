@@ -14,4 +14,4 @@ def bubble_sort(list):
             is_sorted = True
     return sorted_list
 
-print(bubble_sort([2, 1, 3]))
+print(bubble_sort([3, 2, 1]))
