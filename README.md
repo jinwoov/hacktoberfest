@@ -125,3 +125,5 @@ Lets get creative!
 
 Thank you all for participating and thank you Clubhouse1 for doing it live.
 
+### Checkout these cool people as well  
+**Mario: [Github](https://github.com/marioepugh)**  
