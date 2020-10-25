@@ -16,7 +16,7 @@ First, fork this repo to your Github.
 Second clone it down to your computer
 ![Cloning](./assets/how-to-clone.png)
 
-Third, create you own branch with your name
+Third, create your own branch with your name
 
 Fourth, push your code up and make a pull request.
 
