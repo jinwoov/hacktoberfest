@@ -10,7 +10,7 @@ This repository is designed for open source event for [Hacktoberfest](https://ha
 
 **Prior to starting these challenges please sign up at [Hacktoberfest](https://hacktoberfest.digitalocean.com/), and login to it using your Github account.**
 
-First, for this repo to your Github.
+First, fork this repo to your Github.
 ![Forking](./assets/how-to-fork.png)
 
 Second clone it down to your computer
@@ -125,3 +125,5 @@ Lets get creative!
 
 Thank you all for participating and thank you Clubhouse1 for doing it live.
 
+### Checkout these cool people as well  
+**Mario: [Github](https://github.com/marioepugh)**  
