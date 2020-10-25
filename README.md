@@ -1,6 +1,6 @@
-# Hacktoberfest
+# HACKTOBERFEST
 
-## Hacktoberfest  
+## Introduction 
 This repository is designed for open source event for [Hacktoberfest](https://hacktoberfest.digitalocean.com/). Please respect others and enjoy!
 
 **Disclaimer: Any push that alters integrity of this repo or content of other person's file will not be merge to this repository.**
@@ -73,6 +73,8 @@ helloWorld();
 # Python
 def hello_world():
     print("Hello World")
+
+hello_world()
 ```
 
 ```cs
@@ -108,5 +110,18 @@ Feel free too use any of these code or be creative!
 
 ### *Challenges #4*
 
-Should you choose to do this.
+Should you choose to do this mission... 
+
+Let create something cool together!  
+In `Application` folder, I've started node app. Please build on top this application by adding **one line** of code. Again **ONE LINE** of code! This is to give other people to put their cool idea.
+
+If you are brand new to coding. You can still participate by adding a comment to the function or variable and tell what you think that line is doing!! 
+
+In node.js you can create a comment by adding `//` to the beginning of the statement. 
+
+Lets get creative!
+
+---
+
+Thank you all for participating and thank you Clubhouse1 for doing it live.
 
