@@ -32,3 +32,9 @@
 - Name: Jean Pieter
 - Bio: 2nd year undergraduate computer science student from France 
 - Link: [Github](https://github.com/aaabot)
+
+---
+
+- Name: Kiara Biarias
+- Bio: Software engineer from Brooklyn, NY.
+- Link: [Github](https://github.com/Kbarias)
