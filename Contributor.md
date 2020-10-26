@@ -56,3 +56,9 @@
 - Name: Sahil Singh Rajput
 - Bio: First year undergradute computer science engineering.
 - Link: [Github](https://github.com/sahilsingh2402)
+
+---
+
+- Name: Shuaib Oseni
+- Bio:Python  Django Developer.
+- Link: [Github](https://github.com/shosenwales)
