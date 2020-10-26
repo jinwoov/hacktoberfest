@@ -56,3 +56,9 @@
 - Name: Sahil Singh Rajput
 - Bio: First year undergradute computer science engineering.
 - Link: [Github](https://github.com/sahilsingh2402)
+
+---
+
+- Name: Sneha K
+- Bio: Second year CSE undergraduate student , competitive programmer.
+- Link: [Github](https://github.com/snehaa1989)
