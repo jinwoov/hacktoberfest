@@ -1,3 +1,7 @@
+/Users/gaurav/PycharmProjects/hacktoberfest-1/Contributor.md
+- Name: Gaurav Pandey
+- Bio: I am an Engineering Student loves to code and develop.
+- Link: [Github](https://github.com/gauravpandey22)
 
 - Name: Jin Kim
 - Bio: I am software developer/aspiring cloud security engineer.
