@@ -16,3 +16,9 @@
 - Link: [Github](https://github.com/jmoussa)
 
 ---
+
+- Name: Kim Dills
+- Bio: I am a cybersecurity student and new to coding. I live in Washington state.
+- Link: https://github.com/kddills
+
+---
