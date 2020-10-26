@@ -10,3 +10,9 @@
 - Link: [Github](https://github.com/Mackyw)
 
 ---
+
+- Name: Joseph Moussa
+- Bio: I am a software engineer at The Walt Disney Company.
+- Link: [Github](https://github.com/jmoussa)
+
+---
