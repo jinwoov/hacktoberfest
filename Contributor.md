@@ -59,6 +59,12 @@
 
 ---
 
+- Name: Shuaib Oseni
+- Bio:Python  Django Developer.
+- Link: [Github](https://github.com/shosenwales)
+
+---
+
 - Name: Gauri Sharma
 - Bio: Second year CSE student.
 - Link: [Github](https://github.com/gaurisharma360)
