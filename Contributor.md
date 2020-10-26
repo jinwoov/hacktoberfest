@@ -38,3 +38,9 @@
 - Name: Kiara Biarias
 - Bio: Software engineer from Brooklyn, NY.
 - Link: [Github](https://github.com/Kbarias)
+
+---
+
+- Name: Tia Low
+- Bio: Full-stack JavaScript developer with a diverse background of personal and professional experience.
+- Link: [Github](https://github.com/TiaLow)
