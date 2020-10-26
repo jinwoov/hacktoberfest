@@ -62,3 +62,9 @@
 - Name: Vincent Lagravère
 - Bio: Fresh Fullstack dev, mostly using JS and some PHP
 - Link: [Github](https://github.com/JehlahdDWJ)
+
+---
+
+- Name: Sneha K
+- Bio: Second year CSE undergraduate student , competitive programmer.
+- Link: [Github](https://github.com/snehaa1989)
