@@ -130,7 +130,7 @@ Obrigada a todos vocês por participarem e ao Clubhouse1 por fazer isso ao vivo!
 **Mario: [Github](https://github.com/marioepugh)**  
 **Kimberly Dills: [Github](https://github.com/kddills)**  
 **Bubacarr Darboe: [Github](https://github.com/bdarboe)**  
-**Kim Boggs: [Github](https://github.com/kcboggs)**  
+**Kimberley Boggs: [Github](https://github.com/kcboggs)**  
 
 ---
 
