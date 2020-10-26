@@ -1,4 +1,5 @@
 const express = require("express");
+//Port number is constant and declared in here.
 const port = 3000
 
 // the below gives us a variable we can use to run all the methods that are in the express library
@@ -13,6 +14,7 @@ app.get('/', (req, res) => {
 
 //Start server
 app.listen(port, () => {
+ //console.log() prints output
     console.log('Listening at port %d (http://localhost:%d)',port,port)
 })
 

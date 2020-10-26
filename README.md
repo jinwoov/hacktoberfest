@@ -59,7 +59,10 @@ Then make a pull request
 
 ### *Challenge #3*🎃
 
-Create any simple scripts into the `Scripts` folder, printing `Hello World` message.
+Create any simple scripts into the `Scripts` folder, printing `Hello World` message.  
+
+Feel free too use any of these code or be creative!
+
 **Example**
 
 ```js
@@ -107,8 +110,6 @@ public class Program {
 }
 ```
 
-Feel free too use any of these code or be creative!
-
 ---
 
 ### *Challenges #4*🎃
@@ -131,6 +132,8 @@ Thank you all for participating and thank you Clubhouse1 for doing it live.
 ### *Checkout these cool people as well* 👏👏
 **Mario Pugh: [Github](https://github.com/marioepugh)**  
 **Kimberly Dills: [Github](https://github.com/kddills)**  
+**Bubacarr Darboe: [Github](https://github.com/bdarboe)**  
+**Kimberley Boggs: [Github](https://github.com/kcboggs)**  
 
 ---
 

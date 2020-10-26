@@ -129,3 +129,11 @@ Obrigada a todos vocês por participarem e ao Clubhouse1 por fazer isso ao vivo!
 ### Dê uma olhada nesse pessoal legal também  
 **Mario: [Github](https://github.com/marioepugh)**  
 **Kimberly Dills: [Github](https://github.com/kddills)**  
+**Bubacarr Darboe: [Github](https://github.com/bdarboe)**  
+**Kimberley Boggs: [Github](https://github.com/kcboggs)**  
+
+---
+
+## Credit
+
+[AliceWonderland](https://github.com/AliceWonderland/hacktoberfest) for idea of the this open source project.
