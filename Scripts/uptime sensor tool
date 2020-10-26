@@ -1,0 +1,39 @@
+#!/usr/bin/env python3
+##  /\__/\
+#  (=^ .^=)
+#   (")(")__/  
+##
+
+import os, time, datetime
+
+import os, time 
+def check_ping(target):
+
+while True: 
+    ip="127.0.0.1" 
+    response = os.system(f"ping {ip}")
+    if 0 == response:
+        print(f"UP {ip} Ping Successful")
+    response = os.system("ping -c 1 " + target)
+
+    # and then check the response
+    if response ==0:
+        pingstatus = "Network Active"
+    else:
+        print(f"DOWN {ip} Ping Unsuccessful")  
+        pingstatus = "Network Error"
+
+    return pingstatus
+# Handle function output
+
+pingstatus = check_ping("8.8.8.8")
+
+# Infinite Heartbeat
+
+while True:
+    now = datetime.datetime.now()
+    print(str(now) + " " + pingstatus + " to 8.8.8.8")
+    time.sleep(2)
+
+# End
+
