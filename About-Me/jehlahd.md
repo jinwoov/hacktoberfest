@@ -1,0 +1,4 @@
+- Name: Vincent Lagravère
+- Location: France
+- Fun Fact: I've earned more money with my Twitch channel than by my dev work atm !
+- Link: [Github](https://github.com/JehlahdDWJ)
