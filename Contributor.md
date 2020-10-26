@@ -93,3 +93,9 @@
 - Bio: Industrial Eng. Student
 - Link: [Github](https://github.com/selinsezi)
 
+---
+
+- Name: Mahima
+- Bio: I am a tech enthusiast and currently working as a Software Engineer.
+- Link: [Github](https://www.github.com/MAHIMA01)
+
