@@ -44,3 +44,11 @@
 - Name: Sahil Singh
 - Bio: First year undergradute computer science engineering.I love coding and technology related stuff.
 - Link: [Github](https://github.com/sahilsingh2402)
+
+---
+
+- Name: Tia Low
+- Bio: Full-stack JavaScript developer with a diverse background of personal and professional experience.
+- Link: [Github](https://github.com/TiaLow)
+
+---
