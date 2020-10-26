@@ -22,3 +22,8 @@
 - Link: https://github.com/kddills
 
 ---
+- Name: Thomas Kattampallil
+- Bio: Data Scientist from India, now in D.C.
+- Link: https://github.com/thomasneil
+
+---
