@@ -10,3 +10,7 @@
 - Link: [Github](https://github.com/Mackyw)
 
 ---
+
+- Name: Kim Dills
+- Bio: I am a cybersecurity student and new to coding. I live in Washington state.
+- Link: https://github.com/kddills
