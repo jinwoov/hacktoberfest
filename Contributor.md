@@ -14,3 +14,9 @@
 - Name: Kim Dills
 - Bio: I am a cybersecurity student and new to coding. I live in Washington state.
 - Link: https://github.com/kddills
+
+--
+
+- Name: Jean Pierre
+- Bio: 2nd year undergraduate computer science student from France 
+- Link: [Github](https://github.com/aaabot)
