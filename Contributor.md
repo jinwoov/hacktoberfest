@@ -80,3 +80,11 @@
 - Name: Sneha K
 - Bio: Second year CSE undergraduate student , competitive programmer.
 - Link: [Github](https://github.com/snehaa1989)
+
+---
+
+- Name: selinsezi
+- Bio: Industrial Eng. Student
+- Link: [Github](https://github.com/selinsezi)
+
+
