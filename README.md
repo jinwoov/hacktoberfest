@@ -1,32 +1,34 @@
-# HACKTOBERFEST
+# 🎃🎃🎃HACKTOBERFEST🎃🎃🎃
 
-## Introduction 
+## 👻Introduction👻
 This repository is designed for open source event for [Hacktoberfest](https://hacktoberfest.digitalocean.com/). Please respect others and enjoy!
 
 **Disclaimer: Any push that alters integrity of this repo or content of other person's file will not be merge to this repository.**
 
 ---
-## How to contribute?
+
+## How to contribute? ✅
 
 **Prior to starting these challenges please sign up at [Hacktoberfest](https://hacktoberfest.digitalocean.com/), and login to it using your Github account.**
 
-First, fork this repo to your Github.
+**First, fork this repo to your Github.**
 ![Forking](./assets/how-to-fork.png)
 
-Second clone it down to your computer
+**Second clone it down to your computer**
 ![Cloning](./assets/how-to-clone.png)
 
-Third, create your own branch with your name
+**Third, create your own branch with your name**
 
-Fourth, push your code up and make a pull request.
+**Fourth, push your code up and make a pull request.**
 
 [Great article to follow](https://medium.com/@mvthanoshan9/how-to-make-your-first-pull-request-on-github-9aefca5cc837)
 
 ---
 
-## Challenges
+## 👻Challenges👻
 
-### *Challenge #1*
+### *Challenge #1*🎃
+
 - Log your name into the [`Contributor.md`](./Contributor.md) file. The format should be as follow.
 
 ```md
@@ -39,7 +41,7 @@ After adding this to the `contributor.md` file, make a pull request and wait for
 
 ---
 
-### *Challenge #2*
+### *Challenge #2*🎃
 
 Introduce yourself! In `About-Me` folder, create a file with your `initials.md`. After that add a contents as follow:
 
@@ -54,7 +56,8 @@ Then make a pull request
 
 
 ---
-### *Challenge #3*
+
+### *Challenge #3*🎃
 
 Create any simple scripts into the `Scripts` folder, printing `Hello World` message.
 **Example**
@@ -108,7 +111,7 @@ Feel free too use any of these code or be creative!
 
 ---
 
-### *Challenges #4*
+### *Challenges #4*🎃
 
 Should you choose to do this mission... 
 
@@ -125,5 +128,6 @@ Lets get creative!
 
 Thank you all for participating and thank you Clubhouse1 for doing it live.
 
-### Checkout these cool people as well  
-**Mario: [Github](https://github.com/marioepugh)**  
+### *Checkout these cool people as well* 👏👏
+**Mario Pugh: [Github](https://github.com/marioepugh)**  
+**Kimberly Dills: [Github](https://github.com/kddills)**  
