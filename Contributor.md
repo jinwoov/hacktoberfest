@@ -6,7 +6,7 @@
 ---
 
 - Name: Ana Vitória Eichenberger Teixeira
-- Bio: I am an Intern and I study System Analisis and Development. I am from Brazil
+- Bio: I am an Intern and I study System Analisis and Development. I am from Brazil.
 - Link: [Github](https://github.com/Mackyw)
 
 ---
@@ -30,7 +30,7 @@
 ---
 
 - Name: Jean Pieter
-- Bio: 2nd year undergraduate computer science student from France 
+- Bio: 2nd year undergraduate computer science student from France.
 - Link: [Github](https://github.com/aaabot)
 
 ---
@@ -42,7 +42,7 @@
 ---
 
 - Name: Sahil Singh
-- Bio: First year undergradute computer science engineering.I love coding and technology related stuff.
+- Bio: First year undergraduate computer science engineering. I love coding and technology related stuff.
 - Link: [Github](https://github.com/sahilsingh2402)
 
 ---
@@ -54,7 +54,7 @@
 ---
 
 - Name: Sahil Singh Rajput
-- Bio: First year undergradute computer science engineering.
+- Bio: First year undergraduate computer science engineering.
 - Link: [Github](https://github.com/sahilsingh2402)
 
 ---
@@ -62,3 +62,21 @@
 - Name: Shuaib Oseni
 - Bio:Python  Django Developer.
 - Link: [Github](https://github.com/shosenwales)
+
+---
+
+- Name: Gauri Sharma
+- Bio: Second year CSE student.
+- Link: [Github](https://github.com/gaurisharma360)
+
+---
+
+- Name: Vincent Lagravère
+- Bio: Fresh Fullstack dev, mostly using JS and some PHP
+- Link: [Github](https://github.com/JehlahdDWJ)
+
+---
+
+- Name: Sneha K
+- Bio: Second year CSE undergraduate student , competitive programmer.
+- Link: [Github](https://github.com/snehaa1989)

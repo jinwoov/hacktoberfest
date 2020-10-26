@@ -13,6 +13,7 @@ app.get('/', (req, res) => {
 
 //Start server
 app.listen(port, () => {
+ //console.log() prints output
     console.log('Listening at port %d (http://localhost:%d)',port,port)
 })
 
