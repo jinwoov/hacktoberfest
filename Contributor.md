@@ -1,4 +1,3 @@
-
 - Name: Jin Kim
 - Bio: I am software developer/aspiring cloud security engineer.
 - Link: [Github](https://www.github.com/jinwoov)
@@ -59,6 +58,13 @@
 
 ---
 
+
+- Name: Gaurav Pandey
+- Bio: I am an Engineering Student loves to code and develop.
+- Link: [Github](https://github.com/codewithgauri)
+
+---
+
 - Name: Shuaib Oseni
 - Bio:Python  Django Developer.
 - Link: [Github](https://github.com/shosenwales)
@@ -86,5 +92,4 @@
 - Name: selinsezi
 - Bio: Industrial Eng. Student
 - Link: [Github](https://github.com/selinsezi)
-
 
