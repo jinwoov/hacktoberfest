@@ -23,6 +23,12 @@
 
 ---
 
+- Name: Thomas Kattampallil
+- Bio: Data Scientist from India, now in D.C.
+- Link: https://github.com/thomasneil
+
+---
+
 - Name: Jean Pieter
 - Bio: 2nd year undergraduate computer science student from France 
 - Link: [Github](https://github.com/aaabot)

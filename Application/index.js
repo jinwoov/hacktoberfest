@@ -10,3 +10,8 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
     console.log('Listening at port %d (http://localhost:%d)',port,port)
 })
+
+//get time
+app.get('/time', (req, res) => {
+  	res.send(Date.now())
+})
