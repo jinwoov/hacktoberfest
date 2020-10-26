@@ -11,6 +11,14 @@
 
 ---
 
+- Name: Joseph Moussa
+- Bio: I am a software engineer at The Walt Disney Company.
+- Link: [Github](https://github.com/jmoussa)
+
+---
+
 - Name: Kim Dills
 - Bio: I am a cybersecurity student and new to coding. I live in Washington state.
 - Link: https://github.com/kddills
+
+---
