@@ -131,3 +131,9 @@ Thank you all for participating and thank you Clubhouse1 for doing it live.
 ### *Checkout these cool people as well* 👏👏
 **Mario Pugh: [Github](https://github.com/marioepugh)**  
 **Kimberly Dills: [Github](https://github.com/kddills)**  
+
+---
+
+## Credit
+
+[AliceWonderland](https://github.com/AliceWonderland/hacktoberfest) for idea of the this open source project.
