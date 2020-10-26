@@ -1,0 +1,4 @@
+- Name: Kim
+- Location: Washington State, USA
+- Fun Fact: I love art museums and hiking
+- Link: [Github](https://github.com/kddills)
