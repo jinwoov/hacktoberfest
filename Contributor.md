@@ -1,3 +1,9 @@
+- Name: Mahima
+- Bio: I am a tech enthusiast and currently working as a Software Engineer.
+- Link: [Github](https://www.github.com/MAHIMA01)
+
+---
+
 - Name: Jin Kim
 - Bio: I am software developer/aspiring cloud security engineer.
 - Link: [Github](https://www.github.com/jinwoov)
