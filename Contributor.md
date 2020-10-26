@@ -38,3 +38,9 @@
 - Name: Kiara Biarias
 - Bio: Software engineer from Brooklyn, NY.
 - Link: [Github](https://github.com/Kbarias)
+
+---
+
+- Name: Sahil Singh
+- Bio: First year undergradute computer science engineering.I love coding and technology related stuff.
+- Link: [Github](https://github.com/sahilsingh2402)
