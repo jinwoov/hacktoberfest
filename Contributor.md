@@ -17,6 +17,6 @@
 
 --
 
-- Name: Jean Pierre
+- Name: Jean Pieter
 - Bio: 2nd year undergraduate computer science student from France 
 - Link: [Github](https://github.com/aaabot)
