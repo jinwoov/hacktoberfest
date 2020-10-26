@@ -52,3 +52,7 @@
 - Link: [Github](https://github.com/TiaLow)
 
 ---
+
+- Name: Sahil Singh Rajput
+- Bio: First year undergradute computer science engineering.
+- Link: [Github](https://github.com/sahilsingh2402)
