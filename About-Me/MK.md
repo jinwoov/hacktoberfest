@@ -1,0 +1,4 @@
+- Name: Mahima
+- Location: India
+- Fun Fact: Technology inspires me and I love learning about them.
+- Link: [Github](https://github.com/MAHIMA01)
