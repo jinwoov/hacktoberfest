@@ -58,7 +58,6 @@
 
 ---
 
-
 - Name: Gaurav Pandey
 - Bio: I am an Engineering Student loves to code and develop.
 - Link: [Github](https://github.com/codewithgauri)
@@ -66,7 +65,7 @@
 ---
 
 - Name: Shuaib Oseni
-- Bio:Python  Django Developer.
+- Bio:Python Django Developer.
 - Link: [Github](https://github.com/shosenwales)
 
 ---
@@ -100,9 +99,16 @@
 - Link: [Github](https://www.github.com/MAHIMA01)
 
 ---
+
 - Name: Aditi Tiwari
 - Bio: I am a 2nd year student in Information Technology and an AR Developer.
 - Link: [Github](https://github.com/Adititiwari02)
+
+---
+
+- Name: Alan Henry
+- Bio: I am a final year student and a frontend Developer
+- Link: [Github](https://github.com/alanhenry0221)
 
 ---
 
