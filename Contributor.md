@@ -104,3 +104,6 @@
 - Bio: I am a 2nd year student in Information Technology and an AR Developer.
 - Link: [Github](https://github.com/Adititiwari02)
 
+Name : Anuj Patel
+Bio : I am a final year student of electronics  and communications and a tech enthusiast.
+Link : [Github](https://github.com/anujpatel224)
