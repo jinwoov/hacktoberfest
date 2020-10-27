@@ -1,0 +1,4 @@
+- Name: Yajush Vyas
+- Location: Delhi,India
+- Fun Fact: Best competitive programmer in 1st and 2nd year in Chandigath Univ.
+- Link: [Github](https://github.com/geekyvyas)
