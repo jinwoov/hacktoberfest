@@ -133,3 +133,10 @@ Name: Anuj Patel
 - Name: Yajush Vyas
 - Bio: I am a 1st year Student in B.tech CSE(Artificial Intelligence) at Chandigarh University.
 - Link: [Github](https://github.com/geekyvyas)
+
+---
+
+- Name: Akhil S
+- Bio: Third year student at Adi Shankara Institute of Technology.
+- Link: [Akhil S](https://github.com/AKHIL-S-BABU)
+
