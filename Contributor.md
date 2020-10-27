@@ -133,3 +133,9 @@ Name: Anuj Patel
 - Name: Yajush Vyas
 - Bio: I am a 1st year Student in B.tech CSE(Artificial Intelligence) at Chandigarh University.
 - Link: [Github](https://github.com/geekyvyas)
+
+---
+
+- Name: Arthur Almeida
+- Bio: I am a software developer based in Brazil.
+- Link: [Github](https://github.com/arthuralmeida93)
