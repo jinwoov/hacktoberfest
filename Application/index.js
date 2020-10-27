@@ -5,12 +5,11 @@ const port = 3000
 // the below gives us a variable we can use to run all the methods that are in the express library
 const app = express();
 
+app.set('title', 'hacktoberfest');
+
 app.get('/', (req, res) => {
   res.send('hello world')
 })
-
-
-
 
 //Start server
 app.listen(port, () => {
