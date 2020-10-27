@@ -131,5 +131,5 @@ Name: Anuj Patel
 ---
 
 - Name: Yajush Vyas
-- Bio: I am a First year Student in B.tech CSE(Artificial Intelligence) at Chandigarh University.
+- Bio: I am a 1st year Student in B.tech CSE(Artificial Intelligence) at Chandigarh University.
 - Link: [Github](https://github.com/geekyvyas)
