@@ -1,0 +1,4 @@
+- Name: Aditi Tiwari
+- Location: New Delhi, India
+- Fun Fact: I can solve a 3x3x3 cube, 4x4x4 cube, a mirror cube and a megaminx!
+- Link: [Github](https://github.com/Adititiwari02)
