@@ -104,3 +104,8 @@
 - Bio: I am a 2nd year student in Information Technology and an AR Developer.
 - Link: [Github](https://github.com/Adititiwari02)
 
+---
+- Name: Chinmay Prakash
+- Bio: I am a beginner Javascript developer. This is my first time doing Open source.
+- Link: [Github](https://github.com/eeqlsmc3)
+
