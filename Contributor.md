@@ -133,3 +133,9 @@ Name: Anuj Patel
 - Name: Yajush Vyas
 - Bio: I am a 1st year Student in B.tech CSE(Artificial Intelligence) at Chandigarh University.
 - Link: [Github](https://github.com/geekyvyas)
+
+---
+
+- Name: Peter Alexandre
+- Bio: I am a python/django developer and I study System Analisis and Development. I am from Brazil.
+- Link: [Github](https://github.com/PeterAlexandre)
