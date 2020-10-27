@@ -128,3 +128,8 @@ Name: Anuj Patel
 - Bio: I am a beginner Javascript developer. This is my first time doing Open source.
 - Link: [Github](https://github.com/eeqlsmc3)
 
+---
+
+- Name: Yajush Vyas
+- Bio: I am a 1st year Student in B.tech CSE(Artificial Intelligence) at Chandigarh University.
+- Link: [Github](https://github.com/geekyvyas)
