@@ -104,3 +104,8 @@
 - Bio: I am a 2nd year student in Information Technology and an AR Developer.
 - Link: [Github](https://github.com/Adititiwari02)
 
+---
+
+- Name: Calista Lai
+- Bio: Fullstack dev student trying to figure out what to say in their bio.
+- Link: [Github](https://github.com/caliLai)
