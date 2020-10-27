@@ -136,7 +136,12 @@ Name: Anuj Patel
 
 ---
 
+- Name: Jennifer Haggerty
+- Bio: I am a frontend web developer. My hobbies include photography, painting, and costume making.
+- Link: [Github](https://github.com/JennHaggerty)
+
+---
+
 - Name: Akhil S
 - Bio: Third year student at Adi Shankara Institute of Technology.
 - Link: [Akhil S](https://github.com/AKHIL-S-BABU)
-
