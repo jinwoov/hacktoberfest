@@ -106,6 +106,12 @@
 
 ---
 
+Name: Anuj Patel
+- Bio: I am a final year student of b.tech and a tech enthusiast.
+- Link: [Github](https://github.com/anujpatel224)
+
+---
+
 - Name: Calista Lai
 - Bio: Fullstack dev student trying to figure out what to say in their bio.
 - Link: [Github](https://github.com/caliLai)
