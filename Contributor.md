@@ -99,3 +99,8 @@
 - Bio: I am a tech enthusiast and currently working as a Software Engineer.
 - Link: [Github](https://www.github.com/MAHIMA01)
 
+---
+- Name: Aditi Tiwari
+- Bio: I am a 2nd year student in Information Technology and an AR Developer.
+- Link: [Github](https://github.com/Adititiwari02)
+
