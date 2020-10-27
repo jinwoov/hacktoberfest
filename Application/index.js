@@ -18,6 +18,11 @@ app.listen(port, () => {
     console.log('Listening at port %d (http://localhost:%d)',port,port)
 })
 
+//render page
+app.render('index', function(err, html) => {
+    console.log(html);
+})
+
 //get time
 app.get('/time', (req, res) => {
   	res.send(Date.now())
