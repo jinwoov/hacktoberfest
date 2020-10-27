@@ -109,3 +109,10 @@
 - Name: Calista Lai
 - Bio: Fullstack dev student trying to figure out what to say in their bio.
 - Link: [Github](https://github.com/caliLai)
+
+---
+
+- Name: Chinmay Prakash
+- Bio: I am a beginner Javascript developer. This is my first time doing Open source.
+- Link: [Github](https://github.com/eeqlsmc3)
+
