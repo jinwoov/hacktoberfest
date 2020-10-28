@@ -187,3 +187,9 @@
 - Name: Thomas Alwa Edison
 - Bio: I am a Database Analyst at Google
 - Link: [Github](https://github.com/Rec0iL99)
+
+---
+
+- Name: Jin Kim
+- Bio: I am a remote Fullstack developer!
+- Link: [Github](https://www.github.com/kenanchristian)
