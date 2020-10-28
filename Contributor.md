@@ -28,6 +28,12 @@
 
 ---
 
+- Name: Shashank Kesharwani
+- Bio: 3rd year undergraduate student interested in coding.
+- Link: [Github](https://github.com/Shashank2808)
+
+---
+
 - Name: Jean Pieter
 - Bio: 2nd year undergraduate computer science student from France.
 - Link: [Github](https://github.com/aaabot)
@@ -69,6 +75,7 @@
 - Link: [Github](https://github.com/shosenwales)
 
 ---
+
 
 - Name: Gauri Sharma
 - Bio: Second year CSE student.
