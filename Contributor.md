@@ -109,3 +109,22 @@
 - Name: Alan Henry
 - Bio: I am a final year student and a frontend Developer
 - Link: [Github](https://github.com/alanhenry0221)
+
+---
+
+Name: Anuj Patel
+- Bio: I am a final year student of b.tech and a tech enthusiast.
+- Link: [Github](https://github.com/anujpatel224)
+
+---
+
+- Name: Calista Lai
+- Bio: Fullstack dev student trying to figure out what to say in their bio.
+- Link: [Github](https://github.com/caliLai)
+
+---
+
+- Name: Chinmay Prakash
+- Bio: I am a beginner Javascript developer. This is my first time doing Open source.
+- Link: [Github](https://github.com/eeqlsmc3)
+
