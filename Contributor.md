@@ -195,3 +195,10 @@
 - Link: [Github](https://github.com/Anu082000)
 
 ---
+
+- Name: Arda Uzunoğlu
+- Bio: Software enthusiast high school student.
+- Link: [Github](https://github.com/ardauzunoglu)
+
+---
+
