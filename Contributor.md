@@ -156,3 +156,9 @@ Name: Anuj Patel
 - Name: Peter Alexandre
 - Bio: I am a python/django developer and I study Analysis and Systems Development. I am from Brazil.
 - Link: [Github](https://github.com/PeterAlexandre)
+
+---
+
+- Name: Jiri Adam J
+- Bio: I am Blockchain Developer Student who is into new tech as well as Trading Bitcoin. Born and Raised from Chicago!
+- Link: [Github](https://github.com/JiriJAdam)
