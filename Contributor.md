@@ -162,3 +162,9 @@ Name: Anuj Patel
 - Name: Jiri Adam J
 - Bio: I am Blockchain Developer Student who is into new tech as well as Trading Bitcoin. Born and Raised from Chicago!
 - Link: [Github](https://github.com/JiriJAdam)
+
+---
+
+- Name: Jonathan Mieldazis
+- Bio: I'm a python and django developer and I'm graduated in systems analysis and development. I'm from Brazil.
+- Link: [Github](https://github.com/mldzs)
