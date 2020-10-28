@@ -58,12 +58,6 @@
 
 ---
 
-- Name: Sahil Singh Rajput
-- Bio: First year undergraduate computer science engineering.
-- Link: [Github](https://github.com/sahilsingh2402)
-
----
-
 - Name: Gaurav Pandey
 - Bio: I am an Engineering Student loves to code and develop.
 - Link: [Github](https://github.com/codewithgauri)
@@ -172,7 +166,12 @@
 
 ---
 
+- Name: Abhishek Kumar Dey
+- Bio: I am a python developer and a tech enthusiast.
+- Link: [Github](https://github.com/abhishekdey4444)
+
+---
+
 - Name: Joel Mathew Koshy
 - Bio: I am a Frontend Developer (React, Native Android). I am from Kerala, India.
 - Link: [Github](https://github.com/Rec0iL99)
-
