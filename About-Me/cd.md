@@ -1,0 +1,4 @@
+- Name: Christian Dimas
+- Location: Remote
+- Fun Fact: I love going to mountains!
+- Link: [Github](https://github.com/kenanchristian)
