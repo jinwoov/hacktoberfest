@@ -187,3 +187,11 @@
 - Name: Thomas Alwa Edison
 - Bio: I am a Database Analyst at Google
 - Link: [Github](https://github.com/Rec0iL99)
+
+---
+
+- Name: Anu MJ
+- Bio: On the way to my Dream career, SOFTWARE ENGINNER -> All way from Kochi
+- Link: [Github](https://github.com/Anu082000)
+
+---
