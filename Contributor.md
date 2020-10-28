@@ -151,3 +151,8 @@ Name: Anuj Patel
 - Bio: Third year student at Adi Shankara Institute of Technology.
 - Link: [Akhil S](https://github.com/AKHIL-S-BABU)
 
+---
+
+- Name: Peter Alexandre
+- Bio: I am a python/django developer and I study Analysis and Systems Development. I am from Brazil.
+- Link: [Github](https://github.com/PeterAlexandre)
