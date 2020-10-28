@@ -182,3 +182,8 @@
 - Bio: I am a Frontend Developer (React, Native Android). I am from Kerala, India.
 - Link: [Github](https://github.com/Rec0iL99)
 
+---
+
+- Name: Thomas Alwa Edison
+- Bio: I am a Database Analyst at Google
+- Link: [Github](https://github.com/Rec0iL99)
