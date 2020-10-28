@@ -1,4 +1,0 @@
-- Name: Jonathan
-- Location: I'm from Brazil and I live in Maceió - Alagoas
-- Fun Fact: I love beaches but I rarely go, although I live relatively close
-- Link: [Github](https://github.com/mldzs)
