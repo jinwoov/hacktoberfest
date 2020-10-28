@@ -166,6 +166,12 @@
 
 ---
 
+- Name: Jonathan Mieldazis
+- Bio: I'm a python and django developer and I'm graduated in systems analysis and development. I'm from Brazil.
+- Link: [Github](https://github.com/mldzs)
+
+---
+
 - Name: Abhishek Kumar Dey
 - Bio: I am a python developer and a tech enthusiast.
 - Link: [Github](https://github.com/abhishekdey4444)
@@ -175,3 +181,4 @@
 - Name: Joel Mathew Koshy
 - Bio: I am a Frontend Developer (React, Native Android). I am from Kerala, India.
 - Link: [Github](https://github.com/Rec0iL99)
+
