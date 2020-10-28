@@ -5,6 +5,7 @@ const port = 3000
 // the below gives us a variable we can use to run all the methods that are in the express library
 const app = express();
 
+// the below code gives an output(i.e-title) when we go to https://localhost:3000/
 app.set('title', 'hacktoberfest');
 
 app.get('/', (req, res) => {
