@@ -8,6 +8,7 @@ const app = express();
 // the below code gives an output(i.e-title) when we go to https://localhost:3000/
 app.set('title', 'hacktoberfest');
 
+// Sends a response to the request with the phrase "hello world"
 app.get('/', (req, res) => {
   res.send('hello world')
 })
