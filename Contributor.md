@@ -154,5 +154,5 @@ Name: Anuj Patel
 ---
 
 - Name: Peter Alexandre
-- Bio: I am a python/django developer and I study System Analisis and Development. I am from Brazil.
+- Bio: I am a python/django developer and I study Analysis and Systems Development. I am from Brazil.
 - Link: [Github](https://github.com/PeterAlexandre)
