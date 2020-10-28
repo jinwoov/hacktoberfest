@@ -21,3 +21,9 @@ app.listen(port, () => {
 app.get('/time', (req, res) => {
   	res.send(Date.now())
 })
+
+//get year
+app.get('/year', (req, res) => {
+	const date = new Date()
+  	res.send(date.getFullYear())
+})
