@@ -162,3 +162,9 @@ Name: Anuj Patel
 - Name: Jiri Adam J
 - Bio: I am Blockchain Developer Student who is into new tech as well as Trading Bitcoin. Born and Raised from Chicago!
 - Link: [Github](https://github.com/JiriJAdam)
+
+---
+
+- Name: Joel Mathew Koshy
+- Bio: I am a Frontend Developer (React, Native Android). I am from Kerala, India.
+- Link: [Github](https://github.com/Rec0iL99)
