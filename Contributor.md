@@ -136,6 +136,23 @@ Name: Anuj Patel
 
 ---
 
+- Name: Arthur Almeida
+- Bio: I am a software developer based in Brazil.
+- Link: [Github](https://github.com/arthuralmeida93)
+---
+
+- Name: Jennifer Haggerty
+- Bio: I am a frontend web developer. My hobbies include photography, painting, and costume making.
+- Link: [Github](https://github.com/JennHaggerty)
+
+---
+
+- Name: Akhil S
+- Bio: Third year student at Adi Shankara Institute of Technology.
+- Link: [Akhil S](https://github.com/AKHIL-S-BABU)
+
+---
+
 - Name: Peter Alexandre
 - Bio: I am a python/django developer and I study System Analisis and Development. I am from Brazil.
 - Link: [Github](https://github.com/PeterAlexandre)
