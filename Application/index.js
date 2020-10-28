@@ -19,6 +19,7 @@ app.listen(port, () => {
 })
 
 //get time
+// Suggestion: After this function, you can print a greeting according to the time.
 app.get('/time', (req, res) => {
   	res.send(Date.now())
 })
