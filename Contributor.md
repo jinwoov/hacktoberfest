@@ -28,6 +28,12 @@
 
 ---
 
+- Name: Shashank Kesharwani
+- Bio: 3rd year undergraduate student interested in coding.
+- Link: [Github](https://github.com/Shashank2808)
+
+---
+
 - Name: Jean Pieter
 - Bio: 2nd year undergraduate computer science student from France.
 - Link: [Github](https://github.com/aaabot)
@@ -69,6 +75,7 @@
 - Link: [Github](https://github.com/shosenwales)
 
 ---
+
 
 - Name: Gauri Sharma
 - Bio: Second year CSE student.
@@ -112,7 +119,7 @@
 
 ---
 
-Name: Anuj Patel
+- Name: Anuj Patel
 - Bio: I am a final year student of b.tech and a tech enthusiast.
 - Link: [Github](https://github.com/anujpatel224)
 
@@ -168,3 +175,4 @@ Name: Anuj Patel
 - Name: Joel Mathew Koshy
 - Bio: I am a Frontend Developer (React, Native Android). I am from Kerala, India.
 - Link: [Github](https://github.com/Rec0iL99)
+
