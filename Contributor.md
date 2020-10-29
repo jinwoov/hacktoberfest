@@ -207,3 +207,8 @@
 - Link: [Github](https://github.com/Vilma-Agalioti)
 
 ---
+
+- Name: Smarth Ganguly
+- Bio: I am a python developer and a tech savvy.
+- Link: [Github](https://github.com/SmarthGuy)
+
