@@ -225,3 +225,9 @@
 - Link: [Github](https://github.com/gokulcharade)
 
 ---
+
+- Name: Leslie Rodriguez
+- Bio: Front End Js Developer
+- Link: [Github](https://github.com/rleslie1015)
+
+---

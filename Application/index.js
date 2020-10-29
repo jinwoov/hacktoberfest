@@ -35,3 +35,5 @@ app.get('/year', (req, res) => {
 app.get('$', (req, res) => {
 	res.send('have a nice day!')
   })
+
+app.get('/nope', (req, res) => { res.send('NOPE')})
