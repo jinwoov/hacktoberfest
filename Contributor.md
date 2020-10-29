@@ -207,3 +207,9 @@
 - Link: [Github](https://github.com/Vilma-Agalioti)
 
 ---
+
+- Name: Gokul Charade
+- Bio: Tech Enthusiast
+- Link: [Github](https://github.com/gokulcharade)
+
+---
