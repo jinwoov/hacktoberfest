@@ -212,3 +212,16 @@
 - Bio: I am a python developer and a tech savvy.
 - Link: [Github](https://github.com/SmarthGuy)
 
+---
+
+- Name: Sachin Vilas Nagane
+- Bio: I am a Backend Developer. I am from Kerala, India.
+- Link: [Github](https://github.com/SAchu47)
+
+---
+
+- Name: Gokul Charade
+- Bio: Tech Enthusiast
+- Link: [Github](https://github.com/gokulcharade)
+
+---
