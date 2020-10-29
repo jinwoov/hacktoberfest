@@ -213,3 +213,9 @@
 - Link: [Github](https://github.com/SAchu47)
 
 ---
+
+- Name: Gokul Charade
+- Bio: Tech Enthusiast
+- Link: [Github](https://github.com/gokulcharade)
+
+---
