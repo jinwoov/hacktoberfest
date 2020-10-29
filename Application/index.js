@@ -30,3 +30,8 @@ app.get('/year', (req, res) => {
 	const date = new Date()
   	res.send(date.getFullYear())
 })
+
+//this code responds to $ sign to give the output.
+app.get('$', (req, res) => {
+	res.send('have a nice day!')
+  })

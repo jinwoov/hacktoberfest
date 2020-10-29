@@ -1,0 +1,4 @@
+- Name: Smarth Ganguly
+- Location: Jharkhand,India
+- Fun Fact: I love watching movies.
+- Link: [Github](https://github.com/SmarthGuy)
