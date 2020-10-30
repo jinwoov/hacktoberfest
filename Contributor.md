@@ -267,3 +267,7 @@
 - Link: [Github](https://github.com/luciferbest)
 
 ---
+
+- Name: Linda Chun
+- Bio: Blockchain Dev student
+- Link: [Github](https://github.com/Linda-OC)
