@@ -1,3 +1,9 @@
+- Name: Augusto Moraes
+- Bio: I am an engineering student / full-stack dev living in France!
+- Link: [Github](https://github.com/augusto-moraes)
+
+---
+
 - Name: Jin Kim
 - Bio: I am software developer/aspiring cloud security engineer.
 - Link: [Github](https://www.github.com/jinwoov)
