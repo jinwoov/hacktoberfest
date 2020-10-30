@@ -1,4 +1,4 @@
-- Name: (Bislam S.)
-- Location: (Denver, CO)
+- Name: Bislam S.
+- Location: Denver, CO
 - Fun Fact: I love snowboarding
-- Link: [Github](https://github.com/dtf1337)
+- Link: [Github] https://github.com/dtf1337
