@@ -237,3 +237,9 @@
 - Link: [Github](https://github.com/gcharade00)
 
 ---
+
+- Name: Anku Kumar
+- Bio: First year undergraduate computer science engineering. I love coding and technology related stuff.
+- Link: [Github](https://github.com/katanaop6)
+
+---
