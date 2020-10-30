@@ -239,3 +239,9 @@
 - Link: [Github](https://github.com/katanaop6)
 
 ---
+
+- Name: Simran Patel
+- Bio: DS Algo lover
+- Link: [Github](https://github.com/kingplayer428)
+
+---
