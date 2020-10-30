@@ -239,3 +239,9 @@
 - Link: [Github](https://github.com/katanaop6)
 
 ---
+
+- Name: Oscar Romero
+- Bio: Fullstack Engineer in training
+- Link: [Github](https://github.com/creaturenex)
+
+---
