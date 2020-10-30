@@ -37,3 +37,8 @@ app.get('$', (req, res) => {
   })
 
 app.get('/nope', (req, res) => { res.send('NOPE')})
+
+// Sends a response to the request with the phrase "Happy HacktoberFest"
+app.get('/', (req, res) => {
+    res.send('Happy Halloween')
+})
