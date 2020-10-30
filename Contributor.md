@@ -260,3 +260,9 @@
 - Link: [Github](https://github.com/creaturenex)
 
 ---
+
+- Name: Kenneth Luster
+- Bio: Blockchain Dev Student
+- Link: [Github](https://github.com/KenMan79)
+
+---
