@@ -36,10 +36,8 @@ app.get('$', (req, res) => {
 	res.send('have a nice day!')
   })
 
-app.get('/nope', (req, res) => { res.send('NOPE')})
 
-
-
+//bislam
 app.get('/', (req, res) => { 
 	res.send('WASSUP')
 })
