@@ -231,3 +231,9 @@
 - Link: [Github](https://github.com/rleslie1015)
 
 ---
+
+- Name: Ganesh Charade
+- Bio: Front End Developer
+- Link: [Github](https://github.com/gcharade00)
+
+---
