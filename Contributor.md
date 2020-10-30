@@ -231,6 +231,17 @@
 - Link: [Github](https://github.com/rleslie1015)
 
 ---
+- Name: Charade Gokul
+- Bio: Front End Developer
+- Link: [Github](https://github.com/charadegokul)
+
+---
+
+- Name: Ganesh Charade
+- Bio: Front End Developer
+- Link: [Github](https://github.com/gcharade00)
+
+---
 
 - Name: Anku Kumar
 - Bio: First year undergraduate computer science engineering. I love coding and technology related stuff.
@@ -244,3 +255,8 @@
 
 ---
 
+- Name: Oscar Romero
+- Bio: Fullstack Engineer in training
+- Link: [Github](https://github.com/creaturenex)
+
+---
