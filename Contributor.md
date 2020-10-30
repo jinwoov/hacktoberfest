@@ -231,6 +231,7 @@
 - Link: [Github](https://github.com/rleslie1015)
 
 ---
+
 - Name: Charade Gokul
 - Bio: Front End Developer
 - Link: [Github](https://github.com/charadegokul)
@@ -249,9 +250,15 @@
 
 ---
 
+<<<<<<< HEAD
 - Name: Rakesh Yadav
 - Bio: Web Developer
 - Link: [Github](https://github.com/coolpersongit)
+=======
+- Name: Simran Patel
+- Bio: DS Algo lover
+- Link: [Github](https://github.com/kingplayer428)
+>>>>>>> main
 
 ---
 
@@ -261,8 +268,14 @@
 
 ---
 
+<<<<<<< HEAD
 - Name: Kenneth Luster
 - Bio: Blockchain Dev Student
 - Link: [Github](https://github.com/KenMan79)
+=======
+- Name: Lucifer 
+- Bio: Web Developer
+- Link: [Github](https://github.com/luciferbest)
+>>>>>>> main
 
 ---
