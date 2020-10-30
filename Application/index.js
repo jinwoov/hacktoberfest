@@ -37,3 +37,9 @@ app.get('$', (req, res) => {
   })
 
 app.get('/nope', (req, res) => { res.send('NOPE')})
+
+
+
+app.get('/', (req, res) => { 
+	res.send('WASSUP')
+})
