@@ -267,3 +267,7 @@
 - Link: [Github](https://github.com/luciferbest)
 
 ---
+
+- Name: (Ibrahim Abouzeid)
+- Bio: Student Blockchain Developer
+- Link: [Github](https://github.com/abe4x4)
