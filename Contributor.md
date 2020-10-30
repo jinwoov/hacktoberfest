@@ -267,3 +267,9 @@
 - Link: [Github](https://github.com/luciferbest)
 
 ---
+
+- Name: Bislam S. 
+- Bio: Web Developer
+- Link: [Github](https://github.com/dtf1337)
+
+---
