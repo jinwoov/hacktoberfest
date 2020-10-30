@@ -231,9 +231,12 @@
 - Link: [Github](https://github.com/rleslie1015)
 
 ---
+
 - Name: Charade Gokul
 - Bio: Front End Developer
 - Link: [Github](https://github.com/charadegokul)
+
+---
 
 - Name: Ganesh Charade
 - Bio: Front End Developer
@@ -250,5 +253,11 @@
 - Name: Oscar Romero
 - Bio: Fullstack Engineer in training
 - Link: [Github](https://github.com/creaturenex)
+
+---
+
+- Name: Lucifer 
+- Bio: Web Developer
+- Link: [Github](https://github.com/luciferbest)
 
 ---
