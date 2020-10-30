@@ -232,6 +232,10 @@
 
 ---
 
+- Name: Ganesh Charade
+- Bio: Front End Developer
+- Link: [Github](https://github.com/gcharade00)
+
 ---
 
 - Name: Anku Kumar
