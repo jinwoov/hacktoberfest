@@ -231,3 +231,9 @@
 - Link: [Github](https://github.com/rleslie1015)
 
 ---
+
+- Name: Charade Gokul
+- Bio: Front End Developer
+- Link: [Github](https://github.com/charadegokul)
+
+---
