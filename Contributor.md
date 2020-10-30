@@ -247,6 +247,12 @@
 
 ---
 
+- Name: Simran Patel
+- Bio: DS Algo lover
+- Link: [Github](https://github.com/kingplayer428)
+
+---
+
 - Name: Oscar Romero
 - Bio: Fullstack Engineer in training
 - Link: [Github](https://github.com/creaturenex)
