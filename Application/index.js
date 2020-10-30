@@ -36,4 +36,5 @@ app.get('$', (req, res) => {
 	res.send('have a nice day!')
   })
 
+// I think this codes responds 'NOPE' to request 
 app.get('/nope', (req, res) => { res.send('NOPE')})
