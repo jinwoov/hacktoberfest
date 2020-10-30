@@ -127,7 +127,31 @@ Lets get creative!
 
 ---
 
-Thank you all for participating and thank you Clubhouse1 for doing it live.
+### *Challenge #5*🎃
+
+Create any simple scripts into the `Scripts` folder, printing `free swags` message.  
+
+Feel free too use any of these code or be creative!
+
+**Example**
+
+
+// C Sharp
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        Hacktoberfest();
+    }
+    public static void HelloWorld()
+    {
+        Console.WriteLine("free swags");
+    }
+}
+```
+
+
+
 
 ### *Checkout these cool people as well* 👏👏
 **Mario Pugh: [Github](https://github.com/marioepugh)**  
