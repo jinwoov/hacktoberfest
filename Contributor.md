@@ -231,6 +231,13 @@
 - Link: [Github](https://github.com/rleslie1015)
 
 ---
+- Name: Charade Gokul
+- Bio: Front End Developer
+- Link: [Github](https://github.com/charadegokul)
+
+- Name: Ganesh Charade
+- Bio: Front End Developer
+- Link: [Github](https://github.com/gcharade00)
 
 ---
 
@@ -243,5 +250,11 @@
 - Name: Simran Patel
 - Bio: DS Algo lover
 - Link: [Github](https://github.com/kingplayer428)
+
+---
+
+- Name: Oscar Romero
+- Bio: Fullstack Engineer in training
+- Link: [Github](https://github.com/creaturenex)
 
 ---
