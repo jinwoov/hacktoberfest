@@ -290,3 +290,9 @@
 - Bio: Student Blockchain Developer
 - Link: [Github](https://github.com/abe4x4)
 
+---
+
+- Name: one number
+- Bio: new to tech
+- Link: [Github](https://github.com/onenumber934)
+
