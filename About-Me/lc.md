@@ -1,0 +1,4 @@
+- Name: Linda Chun
+- Location: Remote
+- Fun Fact: I like cats
+- Link: [Github](https://github.com/Linda-OC)
