@@ -280,6 +280,12 @@
 
 ---
 
+- Name: Bislam S. 
+- Bio: Web Developer
+- Link: [Github](https://github.com/dtf1337)
+
+---
+
 - Name: Linda Chun
 - Bio: Blockchain Dev student
 - Link: [Github](https://github.com/Linda-OC)
