@@ -280,6 +280,13 @@
 
 ---
 
+- Name: Linda Chun
+- Bio: Blockchain Dev student
+- Link: [Github](https://github.com/Linda-OC)
+
+---
+
 - Name: (Ibrahim Abouzeid)
 - Bio: Student Blockchain Developer
 - Link: [Github](https://github.com/abe4x4)
+
