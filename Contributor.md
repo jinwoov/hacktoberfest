@@ -268,6 +268,12 @@
 
 ---
 
+- Name: Kenneth Luster
+- Bio: Blockchain Dev Student
+- Link: [Github](https://github.com/KenMan79)
+
+---
+
 - Name: Lucifer 
 - Bio: Web Developer
 - Link: [Github](https://github.com/luciferbest)
