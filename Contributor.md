@@ -301,3 +301,10 @@
 - Name: (Ibrahim Abouzeid)
 - Bio: Student Blockchain Developer
 - Link: [Github](https://github.com/abe4x4)
+
+---
+
+- Name: Keven Truong    
+- Bio: Full Stack Web Dev Student 
+- Link: [Github](https://github.com/kevtrng)
+
