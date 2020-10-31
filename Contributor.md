@@ -280,6 +280,18 @@
 
 ---
 
+- Name: Augusto Moraes
+- Bio: I am an engineering student / full-stack dev living in France!
+- Link: [Github](https://github.com/augusto-moraes)
+
+---
+
+- Name: Bislam S. 
+- Bio: Web Developer
+- Link: [Github](https://github.com/dtf1337)
+
+---
+
 - Name: Linda Chun
 - Bio: Blockchain Dev student
 - Link: [Github](https://github.com/Linda-OC)
@@ -289,4 +301,11 @@
 - Name: (Ibrahim Abouzeid)
 - Bio: Student Blockchain Developer
 - Link: [Github](https://github.com/abe4x4)
+
+---
+
+- Name: Keven Truong    
+- Bio: Full Stack Web Dev Student 
+- Link: [Github](https://github.com/kevtrng)
+
 
