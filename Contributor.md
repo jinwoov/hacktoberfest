@@ -250,6 +250,12 @@
 
 ---
 
+- Name: Rakesh Yadav
+- Bio: Web Developer
+- Link: [Github](https://github.com/coolpersongit)
+
+---
+
 - Name: Simran Patel
 - Bio: DS Algo lover
 - Link: [Github](https://github.com/kingplayer428)
@@ -259,6 +265,12 @@
 - Name: Oscar Romero
 - Bio: Fullstack Engineer in training
 - Link: [Github](https://github.com/creaturenex)
+
+---
+
+- Name: Kenneth Luster
+- Bio: Blockchain Dev Student
+- Link: [Github](https://github.com/KenMan79)
 
 ---
 
@@ -273,3 +285,13 @@
 - Link: [Github](https://github.com/augusto-moraes)
 
 ---
+
+- Name: Linda Chun
+- Bio: Blockchain Dev student
+- Link: [Github](https://github.com/Linda-OC)
+
+---
+
+- Name: (Ibrahim Abouzeid)
+- Bio: Student Blockchain Developer
+- Link: [Github](https://github.com/abe4x4)
