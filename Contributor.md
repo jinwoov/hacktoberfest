@@ -250,6 +250,12 @@
 
 ---
 
+- Name: Rakesh Yadav
+- Bio: Web Developer
+- Link: [Github](https://github.com/coolpersongit)
+
+---
+
 - Name: Simran Patel
 - Bio: DS Algo lover
 - Link: [Github](https://github.com/kingplayer428)
