@@ -30,3 +30,8 @@ app.get('/year', (req, res) => {
 	const date = new Date()
   	res.send(date.getFullYear())
 })
+
+// Sends a response to the request with the phrase "Happy Hacktoberfest"
+app.get('/hack', (req, res) => {
+    res.send('Happy Hacktoberfest')
+})
