@@ -208,8 +208,85 @@
 
 ---
 
+- Name: Smarth Ganguly
+- Bio: I am a python developer and a tech savvy.
+- Link: [Github](https://github.com/SmarthGuy)
+
+---
+
 - Name: Sachin Vilas Nagane
 - Bio: I am a Backend Developer. I am from Kerala, India.
 - Link: [Github](https://github.com/SAchu47)
 
 ---
+
+- Name: Gokul Charade
+- Bio: Tech Enthusiast
+- Link: [Github](https://github.com/gokulcharade)
+
+---
+
+- Name: Leslie Rodriguez
+- Bio: Front End Js Developer
+- Link: [Github](https://github.com/rleslie1015)
+
+---
+
+- Name: Charade Gokul
+- Bio: Front End Developer
+- Link: [Github](https://github.com/charadegokul)
+
+---
+
+- Name: Ganesh Charade
+- Bio: Front End Developer
+- Link: [Github](https://github.com/gcharade00)
+
+---
+
+- Name: Anku Kumar
+- Bio: First year undergraduate computer science engineering. I love coding and technology related stuff.
+- Link: [Github](https://github.com/katanaop6)
+
+---
+
+- Name: Rakesh Yadav
+- Bio: Web Developer
+- Link: [Github](https://github.com/coolpersongit)
+
+---
+
+- Name: Simran Patel
+- Bio: DS Algo lover
+- Link: [Github](https://github.com/kingplayer428)
+
+---
+
+- Name: Oscar Romero
+- Bio: Fullstack Engineer in training
+- Link: [Github](https://github.com/creaturenex)
+
+---
+
+- Name: Kenneth Luster
+- Bio: Blockchain Dev Student
+- Link: [Github](https://github.com/KenMan79)
+
+---
+
+- Name: Lucifer 
+- Bio: Web Developer
+- Link: [Github](https://github.com/luciferbest)
+
+---
+
+- Name: Linda Chun
+- Bio: Blockchain Dev student
+- Link: [Github](https://github.com/Linda-OC)
+
+---
+
+- Name: (Ibrahim Abouzeid)
+- Bio: Student Blockchain Developer
+- Link: [Github](https://github.com/abe4x4)
+
