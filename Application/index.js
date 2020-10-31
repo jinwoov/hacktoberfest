@@ -54,6 +54,7 @@ app.get('/', (req, res) => {
 // I think this codes responds 'NOPE' to request 
 app.get('/nope', (req, res) => { res.send('NOPE')})
 
+
 app.get('/', (req, res) => {
     res.send('IT IS SPOOKY SZN!!!')
 })
