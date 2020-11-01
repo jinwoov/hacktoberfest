@@ -1,0 +1,4 @@
+- Name: Krichkorn Oparad
+- Location: Thailand
+- Fun Fact: I'm single
+- Link: [Github](https://github.com/bachkukkik)
