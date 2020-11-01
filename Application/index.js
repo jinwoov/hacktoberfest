@@ -31,6 +31,11 @@ app.get('/year', (req, res) => {
     res.send(date.getFullYear())
 })
 
+// Sends a response to the request with the phrase "Happy Hacktoberfest"
+app.get('/hack', (req, res) => {
+    res.send('Happy Hacktoberfest')
+})
+
 //this code responds to $ sign to give the output.
 app.get('$', (req, res) => {
     res.send('have a nice day!')
@@ -44,6 +49,19 @@ app.get('/', (req, res) => {
     res.send('Happy Hackathon')
 })
 
+=======
+//this code responds to $ sign to give the output.
+app.get('$', (req, res) => {
+	res.send('have a nice day!')
+  })
+
+
+//bislam
+app.get('/', (req, res) => { 
+	res.send('WASSUP')
+})
+
+
 app.get('/nope', (req, res) => { res.send('NOPE')})
 
 // Sends a response to the request with the phrase "Happy Halloween"
@@ -54,4 +72,9 @@ app.get('/', (req, res) => {
 // I think this codes responds 'NOPE' to request 
 app.get('/nope', (req, res) => { res.send('NOPE')})
 
+
+
+app.get('/', (req, res) => {
+    res.send('IT IS SPOOKY SZN!!!')
+})
 
