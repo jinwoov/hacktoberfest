@@ -10,27 +10,46 @@ app.set('title', 'hacktoberfest');
 
 // Sends a response to the request with the phrase "hello world"
 app.get('/', (req, res) => {
-  res.send('hello world')
+    res.send('hello world')
 })
 
 //Start server
 app.listen(port, () => {
- //console.log() prints output
-    console.log('Listening at port %d (http://localhost:%d)',port,port)
+    //console.log() prints output
+    console.log('Listening at port %d (http://localhost:%d)', port, port)
 })
 
 //get time
 // Suggestion: After this function, you can print a greeting according to the time.
 app.get('/time', (req, res) => {
-  	res.send(Date.now())
+    res.send(Date.now())
 })
 
 //get year
 app.get('/year', (req, res) => {
-	const date = new Date()
-  	res.send(date.getFullYear())
+    const date = new Date()
+    res.send(date.getFullYear())
 })
 
+// Sends a response to the request with the phrase "Happy Hacktoberfest"
+app.get('/hack', (req, res) => {
+    res.send('Happy Hacktoberfest')
+})
+
+//this code responds to $ sign to give the output.
+app.get('$', (req, res) => {
+    res.send('have a nice day!')
+})
+
+app.get('/nope', (req, res) => { res.send('NOPE') })
+
+
+// Sends a response to the request with the phrase "Happy Hackathon"
+app.get('/', (req, res) => {
+    res.send('Happy Hackathon')
+})
+
+=======
 //this code responds to $ sign to give the output.
 app.get('$', (req, res) => {
 	res.send('have a nice day!')
@@ -54,8 +73,8 @@ app.get('/', (req, res) => {
 app.get('/nope', (req, res) => { res.send('NOPE')})
 
 
+
 app.get('/', (req, res) => {
     res.send('IT IS SPOOKY SZN!!!')
 })
-
 
