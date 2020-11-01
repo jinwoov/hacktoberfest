@@ -304,6 +304,13 @@
 
 ---
 
+
+- Name: (Dharya Gangwar)
+- Bio : I am a Student
+- Link:[Github](https://github.com/Dharya)
+
+---
+
 - Name: one number
 - Bio: new to tech
 - Link: [Github](https://github.com/onenumber934)
