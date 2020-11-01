@@ -304,8 +304,13 @@
 
 ---
 
+- Name: one number
+- Bio: new to tech
+- Link: [Github](https://github.com/onenumber934)
+
+---
+
 - Name: Keven Truong    
 - Bio: Full Stack Web Dev Student 
 - Link: [Github](https://github.com/kevtrng)
-
 
