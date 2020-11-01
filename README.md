@@ -1,4 +1,6 @@
-# 🎃🎃🎃HACKTOBERFEST🎃🎃🎃
+# ***The Submission is done. Thank you for everyone who has contributed to HACKTOBERFEST***
+
+# 🎃🎃🎃HACKTOBERFEST2020🎃🎃🎃
 
 ## 👻Introduction👻
 This repository is designed for open source event for [Hacktoberfest](https://hacktoberfest.digitalocean.com/). Please respect others and enjoy!
