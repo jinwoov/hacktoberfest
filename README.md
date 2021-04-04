@@ -1,4 +1,4 @@
-# ***The Submission is done. Thank you for everyone who has contributed to HACKTOBERFEST***
+# ***The Submission is done. Thank you everyone who has contributed to HACKTOBERFEST***
 
 # 🎃🎃🎃HACKTOBERFEST2020🎃🎃🎃
 
